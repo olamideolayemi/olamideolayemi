@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **WordPress, HTML, CSS**
+- 💬 Ask me about **WordPress, HTML, CSS, JavaScript, React,js**
 
 - 📫 How to reach me **kranewealthlabs@gmail.com**
 
