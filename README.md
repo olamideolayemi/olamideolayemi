@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/_olamideolayemi" target="blank"><img src="https://img.shields.io/twitter/follow/_olamideolayemi?logo=twitter&style=for-the-badge" alt="_olamideolayemi" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **C**
 
-- 💬 Ask me about **WordPress, HTML, CSS, JavaScript, React,js**
+- 💬 Ask me about **WordPress, HTML, CSS, JavaScript, React.js**
 
 - 📫 How to reach me **kranewealthlabs@gmail.com**
 
