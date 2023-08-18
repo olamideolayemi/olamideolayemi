@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=olamideolayemi&label=Profile%20views&color=0e75b6&style=flat" alt="olamideolayemi" /> </p>
 
-<p align="left"> <a href="https://twitter.com/_olamideolayemi" target="blank"><img src="https://img.shields.io/twitter/follow/_olamideolayemi?logo=twitter&style=for-the-badge" alt="_olamideolayemi" /></a> </p>
+<p align="left"> <a href="https://twitter.com/_olamideolayemi/" target="blank"><img src="https://img.shields.io/twitter/follow/_olamideolayemi?logo=twitter&style=for-the-badge" alt="_olamideolayemi" /></a> </p>
 
 - 🔭 I’m currently working on **coming soon.....**
 
