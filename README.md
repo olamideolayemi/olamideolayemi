@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **something coming soon.....**
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **Next.JS**
 
 - 👨‍💻 All of my projects are available at [Here...](https://www.linkedin.com/in/olamideolayemi-krane)
 
