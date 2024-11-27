@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **myself**
 
-- 🌱 I’m currently learning **Python | GoLan | Flutter**
+- 🌱 I’m currently learning **Python | GoLang | Flutter**
 
 - 👨‍💻 All of my projects are available at [Here...](https://olamideolayemi.vercel.app)
 
