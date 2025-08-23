@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/_olamideolayemi/" target="blank"><img src="https://img.shields.io/twitter/follow/_olamideolayemi?logo=twitter&style=for-the-badge" alt="_olamideolayemi" /></a> </p>
 
-- 🔭 I’m currently working on a **[Framer App...](http://framelane-framer-app.vercel.app)**
+- 🔭 I’m currently working on this: **[Framer App...](http://framelane-framer-app.vercel.app)**
 
 - 🌱 I’m currently learning **GoLang | Flutter | React Native**
 
