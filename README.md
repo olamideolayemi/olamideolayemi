@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/_olamideolayemi/" target="blank"><img src="https://img.shields.io/twitter/follow/_olamideolayemi?logo=twitter&style=for-the-badge" alt="_olamideolayemi" /></a> </p>
 
-- 🔭 I’m currently working on this: **[Framer App...](http://framelane-framer-app.vercel.app)**
+- 🔭 I’m currently working on this: **[Coming Soon...](https://olamideolayemi.vercel.app)**
 
-- 🌱 I’m currently learning **GoLang | Flutter | React Native**
+- 🌱 I’m currently learning **To Be An Enterpreneur**
 
 - 👨‍💻 All of my projects are available [Here...](https://olamideolayemi.vercel.app)
 
-- 💬 Ask me about **Frontend Development, React, React Hooks, State management, Postgres, API Integration, SEO, Google Ads**
+- 💬 Ask me about **Frontend Development, React, React Hooks, State management, Postgres, API Integration, SEO, Google Search Console**
 
 - 📫 How to reach me **olamideolayemi.git@gmail.com**
 
@@ -22,8 +22,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/krane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="krane" height="30" width="40" /></a>
-<a href="https://twitter.com/_olamideolayemi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_olamideolayemi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/olamideolayemi-krane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="olamid15@gmail.com" height="30" width="40" /></a>
+<a href="https://x.com/_olamideolayemi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_olamideolayemi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/olamideolayemi-rotimi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="olamid15@gmail.com" height="30" width="40" /></a>
 <a href="https://instagram.com/_olamideolayemi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_olamideolayemi" height="30" width="40" /></a>
 </p>
 
